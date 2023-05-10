@@ -1,1 +1,32 @@
 # Tensor-tarea-cap3
+
+Los resultados que muestra la consola son: 
+Tensor
+    [[1, 2],
+     [3, 4]]
+probador.js:10
+-----------------------------------------------------------------------------
+probador.js:12
+start 1
+probador.js:18
+inside tidy 5
+probador.js:27
+after tidy 3
+probador.js:34
+end 1
+probador.js:38
+-----------------------------------------------------------------------------
+probador.js:39
+Tensor
+    [[27, 18, 24, 2 , 1 , 15],
+     [14, 6 , 18, 4 , 2 , 10],
+     [2 , 0 , 12, 19, 10, 10],
+     [16, 12, 15, 5 , 2 , 11]]
+tf-core.node.js:7906
+Gant (6) ['Grunge', 'Industrial', 'Rock', 'Techno', 'Boy Band', 'Dance']
+probador.js:91
+Todd (6) ['Industrial', 'Grunge', 'Techno', 'Rock', 'Boy Band', 'Dance']
+probador.js:91
+Jed (6) ['Boy Band', 'Industrial', 'Dance', 'Techno', 'Grunge', 'Rock']
+probador.js:91
+Justin (6) ['Grunge', 'Industrial', 'Rock', 'Techno', 'Boy Band', 'Dance']
